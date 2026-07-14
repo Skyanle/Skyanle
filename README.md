@@ -7,6 +7,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97757,50:c6613f,100:d4a27f&height=210&section=header&text=Tee%20Tian%20An&fontSize=62&fontColor=faf9f5&fontAlignY=40&desc=Cybersecurity%20%C2%B7%20Digital%20Forensics%20%C2%B7%20AI&descSize=20&descAlignY=62&descColor=f0eee6" width="100%" alt="banner" />
 
+# Tee Tian An
+#### Cybersecurity · Digital Forensics · AI
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D97757&center=true&vCenter=true&width=760&height=50&lines=Cybersecurity+%26+Digital+Forensics+Student;Security+Research+Intern+%40+DSO+National+Labs;CodeQL+%C2%B7+Vulnerability+Analysis+%C2%B7+Python;Always+investigating%2C+always+building" alt="typing tagline" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tee%20Tian%20An-d97757?style=for-the-badge&logo=linkedin&logoColor=faf9f5&labelColor=141413)](https://www.linkedin.com/in/tee-tian-an) [![Email](https://img.shields.io/badge/Email-teetianan0942-c6613f?style=for-the-badge&logo=gmail&logoColor=faf9f5&labelColor=141413)](mailto:teetianan0942@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Skyanle-d4a27f?style=for-the-badge&logo=github&logoColor=141413&labelColor=faf9f5)](https://github.com/Skyanle)
