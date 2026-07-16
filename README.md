@@ -41,7 +41,7 @@ I'm **Tee Tian An**, a Year 2 **Cybersecurity & Digital Forensics** student at N
 I'm fluent in **Python** for security automation, comfortable across **front-end development**, and grounded in networking, databases, and application security. I care about building things that are secure, thoughtful, and genuinely well-made.
 
 <div align="center">
-*"The best security professionals are the most curious ones."*
+"The best security professionals are the most curious ones."
 </div>
 
 <div align="center">
