@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97757,50:c6613f,100:d4a27f&height=180&section=header" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d97757,50:c6613f,100:d4a27f&height=8&section=header" width="100%" alt="divider" />
 
 <pre> 
  ▄▄▄▄▄▄▄▄▄▄▄   ▄▄▄     ▄▄▄▄▄▄     ▄▄▄▄   ▄▄▄          ▄▄▄▄▄▄     ▄▄▄▄   ▄▄▄ 
@@ -20,7 +20,7 @@
 
 #### C Y B E R S E C U R I T Y &nbsp; ◆ &nbsp; D I G I T A L &nbsp; F O R E N S I C S &nbsp; ◆ &nbsp; A I
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=760&height=50&lines=Cybersecurity+%26+Digital+Forensics+Student;Security+Research+Intern+%40+DSO+National+Labs;Always+investigating%2C+always+building" alt="typing tagline" />
+<img src="https://img.shields.io/badge/Cybersecurity%20%26%20Digital%20Forensics%20Student-d97757?style=flat-square&labelColor=141413" alt="focus" /> &nbsp; <img src="https://img.shields.io/badge/Security%20Research%20Intern%20%40%20DSO%20National%20Labs-c6613f?style=flat-square&labelColor=141413" alt="internship" /><br /><br /><img src="https://img.shields.io/badge/Always%20investigating%2C%20always%20building-141413?style=flat-square&labelColor=141413" alt="tagline" />
 
 </div>
 
@@ -84,6 +84,6 @@ Open to internships, collaboration, and security research conversations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skyanle&style=for-the-badge&color=d97757&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a27f,50:c6613f,100:d97757&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d4a27f,50:c6613f,100:d97757&height=8&section=footer" width="100%" alt="divider" />
 
 </div>
