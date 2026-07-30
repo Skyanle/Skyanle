@@ -20,7 +20,7 @@
 
 #### C Y B E R S E C U R I T Y &nbsp; ◆ &nbsp; D I G I T A L &nbsp; F O R E N S I C S &nbsp; ◆ &nbsp; A I
 
-<img src="https://img.shields.io/badge/Cybersecurity%20%26%20Digital%20Forensics%20Student-d97757?style=flat-square&labelColor=141413" alt="focus" /> &nbsp; <img src="https://img.shields.io/badge/Security%20Research%20Intern%20%40%20DSO%20National%20Labs-c6613f?style=flat-square&labelColor=141413" alt="internship" /><br /><br /><img src="https://img.shields.io/badge/Always%20investigating%2C%20always%20building-141413?style=flat-square&labelColor=141413" alt="tagline" />
+<img src="https://raw.githubusercontent.com/Skyanle/Skyanle/main/assets/tagline.svg" width="760" alt="tagline" />
 
 </div>
 
